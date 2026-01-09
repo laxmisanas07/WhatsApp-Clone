@@ -1,27 +1,31 @@
+Bilkul, short aur clean formatting ke saath ye raha. Ise copy karein, ye GitHub par ekdum neat dikhega:
+
 🟢 W-What's-Up (LAN Chat)
-A clean and simple WhatsApp-themed desktop chat application for local networks.
+A simple WhatsApp-style chat app for local networks.
 
 ✨ Features
-Real-time Messaging: Chat instantly over LAN.
+💬 Real-time: Instant messaging over LAN.
 
-Host/Join Modes: One user hosts, the other joins via IP.
+🖥️ UI: Familiar Teal Green (WhatsApp) theme.
 
-Modern UI: Built with a familiar Teal Green WhatsApp theme.
+⚙️ Simple: No setup or internet needed.
 
-Lightweight: No external libraries required (uses standard Python).
+🚀 Fast: Lightweight and multi-threaded.
 
 🚀 How to Use
-Run the app: python whats_up_chat.py
+Run: python main.py
 
-Setup: - User 1: Type host to start the server.
+Host: Type host to start your server.
 
-User 2: Type join and enter User 1's IP address.
+Join: Type join and enter the Host's IP address.
 
-Chat: Start typing and hit Enter!
+Chat: Type your message and press Enter.
 
 🛠️ Tech Stack
 Language: Python 3.x
 
-Library: Tkinter (GUI), Sockets (Networking)
+GUI: Tkinter
 
-Developed with ❤️ by Laxmi Sanas
+Core: Sockets & Threading
+
+👩‍💻 Developed by Laxmi Sanas
