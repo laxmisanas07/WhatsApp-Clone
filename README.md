@@ -1,4 +1,3 @@
-Bilkul, short aur clean formatting ke saath ye raha. Ise copy karein, ye GitHub par ekdum neat dikhega:
 
 🟢 W-What's-Up (LAN Chat)
 A simple WhatsApp-style chat app for local networks.
